@@ -1,7 +1,7 @@
 Thumbs.db
 node_modules/
 # Ignore the compiled Tailwind CSS folder
-dist/   
+output.css  
 
 .vscode/
 .env
