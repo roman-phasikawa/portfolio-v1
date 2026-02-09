@@ -6,3 +6,4 @@ output.css
 .vscode/
 .env
 
+src/output.css
